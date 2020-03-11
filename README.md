@@ -292,6 +292,10 @@ Shown above is the general form of a linear model, which gives us generally 3 ch
 
 
 
+
+
+
+
 # Coursera thingies :
 
 ### Linear Regression with multiple variables :
